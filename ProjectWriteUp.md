@@ -47,5 +47,8 @@ Data was vectorized using CountVectorizer and TfidfVectorizor, tokenized by word
 
 ## Visualization
 
+![Unknown-3](https://user-images.githubusercontent.com/67508938/133799470-7efeac50-9f0d-414d-8b0d-e61febf33fe0.png)
 
+
+![Unknown](https://user-images.githubusercontent.com/67508938/133799475-e0bf75d6-6861-46d1-ac31-21d1e07be134.png)
 
